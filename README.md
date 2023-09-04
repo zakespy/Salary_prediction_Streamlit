@@ -6,7 +6,9 @@
 ![Screenshot from 2022-08-23 09-49-07](https://user-images.githubusercontent.com/93320620/189075771-919fecac-ae3a-4a4e-8068-783c520be50b.png)
 
 
-
+### Installation
+Run pip install streamlit , to install streamlit
+Run the | streamlit run app_4.py |command in your command prompt to start the application
 
 ### You can check my app [here](https://isaakkarag-streamlit-first-app-app-4-d3rel3.streamlitapp.com/)
 
